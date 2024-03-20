@@ -1,0 +1,6 @@
+# .NET Core Build
+[Bb]in/
+[Oo]bj/
+
+# IDE
+.VS
